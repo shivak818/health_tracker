@@ -1,7 +1,4 @@
-# health_tracker
-Here's the updated README content without emojis, formatted for a single file:
 
----
 
 # Health Challenge Tracker
 
